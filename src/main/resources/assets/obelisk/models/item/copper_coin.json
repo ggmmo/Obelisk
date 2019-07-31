@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "obelisk:item/copper_coin"
+  }
+}
